@@ -11,3 +11,4 @@ Here  there are steps to follow  for successfully running   the application:
 - Open the package.json file  and  check if all dependencies are installed if not install them.
 - build  the application by running  npm run build
 - execute the app by running npm start
+N.B: The application folder is "god-frontend-code-test" the folder inside "React_Typescript_Test"
